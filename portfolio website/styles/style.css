@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --light-blue:#0e224e;
+    --dark-blue:#031540;
+}
+body{
+    background-color:var(--light-blue);
+}
+nav {
+    margin: 0px;
+    position: fixed;
+    border-width: thin;
+    padding: 0px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color:var(--dark-blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.logo_container {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_container .logo {
+    min-height: 100px;
+    min-width: 100px;
+    border-radius: 50%;
+}
+
+.tabs {
+    color: white;
+    min-width: 100px;
+    font-weight: bold;
+}
+
+.tabs:hover {
+    color: #E74C3C; /* Accent Color (Red) */
+}
+
+

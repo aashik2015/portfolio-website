@@ -1,0 +1,305 @@
+
+.info {
+    margin-top: 23px;
+    margin-left: 500px;
+}
+
+.info h1 {
+
+    color: transparent;
+    -webkit-text-stroke: .5px #fff;
+    font-size: 45px;
+    background-image: linear-gradient(brown, brown);
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+
+}
+
+.info h1 {
+    background-position: 410px;
+    animation: animateText 6s linear infinite;
+}
+
+
+
+.logo1 {
+
+
+    height: auto;
+    left: 0px;
+    width: 100px;
+    border-radius: 0%;
+    margin-left: 600px;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.info h3 {
+    margin-left: 50px;
+}
+
+.info h6 {
+    margin-top: 100px;
+    margin-left: 150px;
+    ;
+}
+
+.icon {
+    margin-left: 745px;
+    font-size: 23px;
+}
+
+.icon ion-icon {
+    margin-left: 5px;
+}
+
+.icon ion-icon:hover {
+    color: aqua;
+
+}
+
+.temp {
+    margin-left: 20px;
+}
+
+.nav ul li h1 a {
+    margin-left: 930px;
+    font-size: 12px;
+    color: blue;
+    margin-right: 2px;
+}
+
+.nav ul li h2 a {
+    font-size: 12px;
+    color: blue;
+}
+
+.nav ul li h1 a:hover {
+    color: red;
+}
+
+ul li h2 a:hover {
+    color: red;
+}
+
+.me {
+    margin-top: 200px;
+    text-align: center;
+    box-shadow: 2px 3px 5px;
+    width: 400px;
+    margin-left: 500px;
+    height: 200px;
+
+
+}
+
+.logo2 {
+    margin-left: 500px;
+    position: fixed;
+    height: auto;
+    left: 0px;
+    width: 55px;
+    border-radius: 100%;
+}
+
+.me p {
+    margin-top: 20px;
+}
+
+.me h1 {
+    color: gold;
+}
+
+
+.nai {
+    height: 150px;
+    rows: 10px;
+    column-span: 13px;
+}
+
+
+.cardleft {
+    text-align: left;
+    margin: 30px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    font-style: 13px;
+    font-weight: 300;
+    transition: background 0.5s, transform 0.5s;
+
+}
+
+.cardcenter {
+    text-align: left;
+    margin: 30px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-style: 13px;
+    font-weight: 300;
+    transition: background 0.5s, transform 0.5s;
+}
+
+.cardright {
+    text-align: left;
+    margin: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: black;
+
+    color: white;
+
+    font-style: 13px;
+    font-weight: 300;
+    transition: background 0.5s, transform 0.5s;
+}
+
+.skillslist {
+    display: flex;
+    margin-top: 50px;
+}
+
+.skillslist i {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+.skillslist h1 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.skillslist a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.skillslist .cardleft:hover {
+    background: #ff004f;
+    transform: translateY(-10px);
+
+}
+
+.skillslist .cardright:hover {
+    background: #ff004f;
+    transform: translateY(-10px);
+
+}
+
+.skillslist .cardcenter:hover {
+    background: #ff004f;
+    transform: translateY(-10px);
+}
+
+.container h3 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.home {
+    height: 100vh;
+    background: linear-gradient(-90deg, #031540 65%, #fff 35%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10%;
+
+
+}
+
+.profile_container {
+    background: #031540;
+    border-radius: 50%;
+    border: 20px solid #fff;
+    outline: 20px solid #031540;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+
+
+
+
+.home-content p {
+    margin-top: 20px;
+}
+
+.hehe {
+
+    background: white;
+
+    height: 200px;
+    width: 300px;
+    margin-left: 500px;
+
+    margin-top: 900px;
+}
+
+form {
+    width: 100px;
+
+    margin-left: 20px;
+}
+
+form label {
+
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+input[type="button"] {
+    margin-top: 20px;
+    width: 220px;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+.se {
+
+
+    text-align: center;
+    margin-left: 620px;
+    background-color: #fff;
+    margin-top: 150px;
+}
+
+
+.hehe {
+    box-shadow: 1px 0px 1px 1px;
+    border-radius: 2px;
+    border-top-left-radius: 33px;
+    border-bottom-left-radius: 33px;
+    background-color: aquamarine;
+    margin-left: 10px;
+    height: 400px;
+    margin-top: -45px;
+
+}
+
+.se p2 {
+    margin-left: 300px;
+    margin-bottom: 300px;
+}
+
+.hehe form p7 textarea {
+    height: 150px;
+    width: 200px;
+}
+
+.se h1 {
+    margin-top: 200px;
+
+} 

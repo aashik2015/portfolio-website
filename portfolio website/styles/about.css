@@ -1,0 +1,7 @@
+.aboutme_container{
+    box-shadow: rgba(3, 62, 224, 0.685) 0px 5px 15px;
+    max-width: 60vw;
+    text-align:justify;
+    background-color: var(--dark-blue);
+    color:white;
+}

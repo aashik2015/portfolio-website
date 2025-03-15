@@ -1,0 +1,11 @@
+.user_interaction{
+    position:absolute;
+    top:-50px;
+    background-color: rgba(0, 0, 0, 0.459);
+    color:white;
+    border-radius:0px 0px 20px 0px;
+    left:0px;
+}
+.projects_card_body{
+    user-select:none;
+}
